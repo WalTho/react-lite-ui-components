@@ -1,4 +1,4 @@
-# React Lite Components
+# React Lite UI Components
 
 React Lite Components is a lightweight React.js library that offers simple and minimalist components with minimal or no styles. The library is designed to be easy to use and aims to provide a hassle-free development experience.
 
