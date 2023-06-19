@@ -50,11 +50,11 @@ export default App;
 
 ## Documentation
 
-For detailed documentation on the available components and their props, please refer to the [React Lite Components documentation](https://example.com).
+For detailed documentation on the available components and their props, please refer to the [React Lite Components documentation](https://github.com/WalTho/react-lite-components/wiki).
 
 ## Contributing
 
-Contributions to React Lite Components are welcome! If you encounter any bugs, have feature requests, or would like to contribute enhancements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/example/react-lite-components).
+Contributions to React Lite Components are welcome! If you encounter any bugs, have feature requests, or would like to contribute enhancements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/WalTho/react-lite-components/issues).
 
 ## License
 
